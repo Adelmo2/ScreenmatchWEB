@@ -1,0 +1,20 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ 28AC-DCA8
+
+ Pasta de C:\ASR\CURSOS\ALURA\screenmatchJPA
+
+16/10/2025  05:23    <DIR>          .
+13/10/2025  05:19    <DIR>          ..
+12/09/2023  11:24               395 .gitignore
+24/09/2025  05:20    <DIR>          .idea
+12/09/2023  11:24    <DIR>          .mvn
+12/09/2023  11:24            11.290 mvnw
+12/09/2023  11:24             7.592 mvnw.cmd
+06/08/2025  18:51             2.168 pom.xml
+13/08/2025  06:05             1.046 qodana.yaml
+03/09/2025  06:16               793 README.md
+12/09/2023  11:24    <DIR>          src
+02/07/2025  22:22    <DIR>          target
+16/10/2025  05:23                 0 teste10.txt
+               7 arquivo(s)         23.284 bytes
+               6 pasta(s)   60.068.081.664 bytes dispon¡veis

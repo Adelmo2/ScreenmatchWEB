@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "liveServer.settings.port": 5501
+}
